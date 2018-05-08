@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Yarn error log
+yarn-error.log
+
+# Bundled file
+public/bundle.js
